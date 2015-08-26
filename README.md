@@ -3,7 +3,7 @@ A minimal MVC project for testing Cloud Foundry Diego deployments
 
 ## Prerequisites
 
-To push this app, you need to [download the diego plugin]((https://github.com/cloudfoundry-incubator/diego-cli-plugin) and deploy to [an environment with .NET support](http://docs.pivotal.io/pivotalcf/opsguide/deploying-diego.html)
+To push this app, you need to [download the diego plugin](https://github.com/cloudfoundry-incubator/diego-cli-plugin) and deploy to [an environment with .NET support](http://docs.pivotal.io/pivotalcf/opsguide/deploying-diego.html)
 
 ## Preparation
 
