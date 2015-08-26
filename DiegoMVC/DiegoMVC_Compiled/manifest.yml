@@ -1,6 +1,0 @@
-﻿---
-applications:
-- name: diegoMVC
-  memory: 2g
-  path: ./DiegoMVC_Compiled/
-  buildpack: https://github.com/ryandotsmith/null-buildpack.git
